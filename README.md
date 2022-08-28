@@ -8,3 +8,5 @@ Where I am att in the javascript.info tutorial
 
 8/28/22: Completed:
 1. Alert prompt confirm (https://javascript.info/alert-prompt-confirm)
+2. Type Conversions (https://javascript.info/type-conversions)
+3. Left off at Terms unary, binary, operand (https://javascript.info/operators#modify-in-place)
